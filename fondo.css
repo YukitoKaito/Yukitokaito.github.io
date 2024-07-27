@@ -1,15 +1,8 @@
 body{
 
     background-color:hsl(64, 100%, 95%) ;
-    
     div{
-        div{
-          
-            background-color:navajowhite;
-            width: 20%;
-        
-        }
+        margin-left: 35%;
     }
-    
 
 }
