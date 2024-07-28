@@ -2,7 +2,8 @@ body{
 
     background-color:hsl(64, 100%, 95%) ;
     div{
-        margin-left: 20%;
+        margin-left: 15%;
+        margin-right: 5%;
     }
 
 }
